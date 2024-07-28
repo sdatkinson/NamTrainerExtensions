@@ -15,6 +15,7 @@ _art = """
 | |\  |/ ___ \| |  | |
 |_| \_/_/   \_\_|  |_|
 
+Neural Amp Modeler
 By Steven Atkinson
 """
 
